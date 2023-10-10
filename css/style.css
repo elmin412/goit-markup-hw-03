@@ -553,6 +553,7 @@ p {
 
 
 .logo-nav {
+    margin-bottom: 16px;
     display: inline-block;
     font-family: Raleway, sans-serif;
     color: #4D5AE5;
@@ -562,7 +563,6 @@ p {
     text-transform: uppercase;
     line-height: 1.17;
     text-decoration: none;
-    margin-bottom: 16px;
 }
 
 .logo-footer {
