@@ -259,12 +259,7 @@ ul {
 
 .target {
     margin-bottom: 8px;
-    font-family: "Roboto" sans-serif;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    
 }
 
 .plan-section .item-plan {
@@ -542,7 +537,7 @@ p {
     
 }
 
-.foot-container {
+.footer .container {
     width: 1158px;
     display: flex;
     justify-content: space-between;
