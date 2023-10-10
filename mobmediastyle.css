@@ -1,0 +1,71 @@
+@media screen and (min-width: 320px) {
+    
+    .container {
+        max-width: 320px;
+        padding-left: 16px;
+        padding-right: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    
+    .list-plan {
+        width: 100%;
+    }
+
+    .icon-plan {
+        display: none;
+    }
+
+    .technologi-target {
+        flex-direction: column;
+        width: 100%;
+
+    }
+
+    .target {
+        font-size: 36px;
+        text-align: center;
+    }
+
+    .leader-background {
+        flex-direction: column;
+        width: 100%;
+
+    }
+    
+    .about-staff {
+        display: inline-block;
+    }
+
+    
+    .project-list {
+        flex-direction: column;
+        width: 100%;
+
+    }
+
+
+    .text-part {
+        text-align: center;
+        padding: 32px 16px;
+        border: 1px solid #e7e9fc;
+        border-top: none;
+        margin-bottom: 8px;
+    }
+
+    .all-foot-cont {
+        width: 100%;
+        display: block;
+    }
+
+    .explode {
+
+        flex-direction: column;
+    }
+
+    .staff-main {
+        width: 320px;
+        background-color: #FFFFFF;
+
+    }
+}
