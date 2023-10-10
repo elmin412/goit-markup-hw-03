@@ -539,9 +539,6 @@ p {
 
 .footer .container {
     width: 1158px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin: 0;
     padding: 0 auto;
 
