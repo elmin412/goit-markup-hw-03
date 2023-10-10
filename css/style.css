@@ -55,7 +55,6 @@ img {
 }
 
 .logo-nav {
-    display: inline-block;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -258,7 +257,7 @@ ul {
 }
 
 
-.list-plan .target {
+.technologi-target .target {
     margin-bottom: 8px;
     
 }
@@ -553,7 +552,7 @@ p {
 }
 
 
-.logo-nav {
+.footer .logo-nav {
     display: inline-block;
     margin-bottom: 16px;
 }
