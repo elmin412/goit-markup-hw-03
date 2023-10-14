@@ -19,7 +19,7 @@ img {
 
 /* header */
 .head-part {
-    border-bottom: 1px solid #383838;
+    border-bottom: 1px solid #e7e9fc
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 1px 6px rgba(46, 47, 66, 0.08);
@@ -147,6 +147,9 @@ p, h1, h2, h4  {
 
 }
 
+svg {
+    fill: none;
+}
 
 /* section1 */
 .hero-section {
@@ -268,6 +271,7 @@ ul {
     line-height: 24px;
     letter-spacing: 0.017em;
     font-style: normal;
+    margin-bottom: 8px;
     
     
 }
@@ -393,6 +397,7 @@ p {
 
 .shrink :hover{
     background-color: #31d0aa;
+    border-radius: 50%;
 }
 
 
@@ -401,6 +406,7 @@ p {
     width: 40px;
     height: 40px;
     fill: #f4f4fd;
+    
 }
 
 
