@@ -393,7 +393,7 @@ p {
 }
 
 .shrink :hover{
-    background-color: #31d0aa;
+    background-color: #404BBF;
     border-radius: 50%;
 }
 
@@ -545,7 +545,7 @@ p {
 } */
 
 
-.footer-logo {
+.web {
     margin-bottom: 16px;
     display: inline-block;
     font-size: 18px;
@@ -557,7 +557,7 @@ p {
     text-transform: uppercase;
 }
 
-.logo-footer {
+.studio {
     color: #f4f4fd;
 
 }
