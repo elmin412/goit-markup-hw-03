@@ -286,13 +286,16 @@ ul {
 
 }
 
-.
+
 
 
 
 
 
 /* section3 */
+
+
+
 .team-section {
     background-color: #f4f4fd;
     padding-top: 120px;
@@ -525,6 +528,9 @@ ul {
 }
 
 .footer .container {
+    display: flex;
+    gap: 0;
+    align-items: baseline;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
