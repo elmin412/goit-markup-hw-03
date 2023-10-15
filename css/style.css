@@ -546,16 +546,17 @@ p {
 
 
 .web {
-    margin-bottom: 16px;
     display: inline-block;
+    font-family: Raleway, sans-serif;
+    color: #4D5AE5;
     font-size: 18px;
     font-weight: 700;
-    font-family: "Raleway", sans-serif;
-    line-height: 1.17;
-    letter-spacing: 0.54px;
-    color: #4D5AE5;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
-}
+    line-height: 1.17;
+    text-decoration: none;
+    margin-bottom: 16px;
+    }
 
 .studio {
     color: #f4f4fd;
