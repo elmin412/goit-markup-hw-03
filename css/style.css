@@ -16,6 +16,10 @@ img {
     display: block;
 }
 
+p {
+    margin: 0;
+    padding: 0;
+}
 
 /* header */
 .head-part {
@@ -103,7 +107,6 @@ img {
 .navigation .chapter:focus {
     color: #404BBF;
 }
-
 
 
 .adds {
@@ -285,15 +288,8 @@ ul {
 
 .
 
-p {
-    margin: 0;
-    padding: 0;
-}
 
-.icon-rss {
-    width: 64;
-    height: 64;
-}
+
 
 
 /* section3 */
@@ -329,8 +325,6 @@ p {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 2px 1px rgba(46, 47, 66, 0.08);
-
-
 
 }
 
@@ -531,12 +525,9 @@ p {
 }
 
 .footer .container {
-    display: flex;
-    gap: 0;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    align-items: baseline;
         
 }
 
